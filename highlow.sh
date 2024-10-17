@@ -44,6 +44,7 @@ do
     if [[ $option != "yes" ]]
     then
         echo -e "-------------------------Thank you for playing! Goodbye!------------------------\n"
+        echo -e "-------------------------Have a nice day! see you again!------------------------\n"
         break
     fi
 done
